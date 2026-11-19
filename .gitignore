@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datos y salidas generadas
+data/*.csv
+output/
+
+# Sistema
+.DS_Store
+Thumbs.db
